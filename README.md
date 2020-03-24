@@ -29,15 +29,14 @@ A: All of them, I guess. RealistISH shouldn't cause any compatiblity issues with
 
 Recommended mods:
 
-- RESTOCK 3.2x or JNSQ
+- RESCALE 3.2x or JNSQ. RESCALE 2.5x is an option, but you'll see better results with 3.2x.
 - ReStock and ReStock Plus
 - Persistent Rotation
 - Better SRBs
-- Kerbalism
 - Engine Ignitor
 - BDB (truly a must)
 - Knes
-- Tantares
+- TantaresLV
 - Fuji
 - Cryogenic Engines
 - Near-Future Solar
