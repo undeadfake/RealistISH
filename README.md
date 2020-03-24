@@ -32,6 +32,7 @@ Recommended mods:
 - RESCALE 3.2x or JNSQ. RESCALE 2.5x is an option, but you'll see better results with 3.2x.
 - ReStock and ReStock Plus
 - Persistent Rotation
+- NFRealism
 - Better SRBs
 - Engine Ignitor
 - BDB (truly a must)
