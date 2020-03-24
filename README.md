@@ -11,13 +11,20 @@ Q: What does it change?
 A: Many things, but these are the most important changes:
 
 1- No reaction wheels on crewed spacecraft and airplane cockpits.
-2- Reaction wheels are a lot less powerful now.
-3- Big reduction in solar panel power generation, but they're lighter as well. Based on real-life performance. You'll now need massive panels for power-hungry spacecraft.
-3- Command pods are autonomous. You can now do uncrewed tests without adding extra control parts.
-5- Massive thrust reduction for RCS thrusters.
-6- Performance changes for some engines, aimed at replicating their real-life counterparts (with BDB-style balance). This might include change in mass, thrust, specific impulse and even propellants used.
-7- Real names for some parts (e.g. Puff engine is now AJ10-190)
-8- Mods with inconsistent balancing now have better balance (e.g. Knes, Fuji)
+
+2- Reaction wheels are not as powerful.
+
+3- Big reduction in solar panel power generation, but they're lighter as well. Based on real-life performance. You'll now need massive panels for power-hungry spacecraft, but there's no noticeable impact in launch mass.
+
+3- Command pods are autonomous. You can now do uncrewed tests without adding extra command parts.
+
+5- Thrust reduction for RCS thrusters. Values based on real-life components.
+
+6- Performance changes for some engines, aimed at replicating their real-life counterparts (with BDB-style balance). This might include changes in mass, size, thrust, specific impulse and even propellants used.
+
+7- Real names for some parts (e.g. Puff engine is now AJ10-190).
+
+8- Mods with balancing not entirely consistent with BDB (e.g. Knes, Fuji) are now rebalanced.
 
 Q: Does it have any dependencies?
 
